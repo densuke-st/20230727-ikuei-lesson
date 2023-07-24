@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "2023/7/27 育英高校授業用資料"
 authors = ["SATO Daisuke <densuke@st.kobedenshi.ac.jp>"]
 readme = "README.md"
-packages = [{include = "20230727_ikuei_lesson"}]
+#packages = [{include = "20230727_ikuei_lesson"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
