@@ -6,6 +6,7 @@
     * <a href="https://nadesi.com/doc3/index.php?%E3%81%AA%E3%81%A7%E3%81%97%E3%81%933%E7%B0%A1%E6%98%93%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF"
         target="_blank">簡易Webエディタ</a> ← こちらをクリック(タップ)
         * 別タブで開くはずです
-
+* 授業資料
+    * <a href="https://docs.google.com/presentation/d/181D3eCfBzvm6LxSmNksnFF_n0aNQdFEF1u4vHvJsnlg/edit?usp=sharing" target="_blank">スライド</a>
 ```{tableofcontents}
 ```
