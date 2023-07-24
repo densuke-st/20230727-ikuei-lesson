@@ -12,6 +12,11 @@ on:
   # Add the `pull_request` event, so that the workflow runs automatically every time a pull request is created or updated. For more information, see [`pull_request`](/actions/using-workflows/events-that-trigger-workflows#pull_request).
   pull_request:
 
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
 
 # The `jobs` key groups together all the jobs that run in the workflow file.
 jobs:
